@@ -2,7 +2,7 @@
 [SampurNER](https://drive.google.com/drive/folders/1f2c9cuOey4rZHMkGHspVecIMcdTfPx-6?usp=sharing): Fine-grained Named Entity Recognition dataset for 22 Indian Languages
 
 ## Entity-anchored translation method
-- We propose an entity-anchored translation method to translate English sentences into Indian languages while retaining Named Entity Recognition (NER) information. Three translation services were used: [Google Translate API](https://cloud.google.com/translate), [Bing Translator](https://www.bing.com/translator/), and [IndicTrans2](https://ai4bharat.iitm.ac.in/areas/model/NMT/IndicTrans2), evaluated using 1000 sentence pairs from the [BPCC corpus](https://ai4bharat.iitm.ac.in/datasets/bpcc).  
+- We propose an entity-anchored translation method to translate English sentences into Indian languages while retaining Named Entity Recognition (NER) information. Three translation services were used: [Google Translate API](https://cloud.google.com/translate), [Bing Translator](https://www.bing.com/translator/), and [IndicTrans2](https://ai4bharat.iitm.ac.in/areas/model/NMT/IndicTrans2), evaluated using multiple pairs of 1000 sentences from the [BPCC corpus](https://ai4bharat.iitm.ac.in/datasets/bpcc).  
 
 - Based on translation quality, we selected IndicTrans2 for Santali, Bing for Bodo and Kashmiri, and Google Translate for the remaining 19 languages. The source NER dataset was converted from BIO format into plain and entity-anchored formats, where entity mentions were marked with unique symbols to preserve entity-type information during translation.  
 
