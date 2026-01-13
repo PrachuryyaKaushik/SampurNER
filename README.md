@@ -1,8 +1,11 @@
-# SampurNER: Fine-grained Named Entity Recognition for all 22 scheduled Indian Languages
+# SampurNER: Fine-grained Named Entity Recognition Dataset for all 22 scheduled Indian Languages
 
 ## Abstract
 
 We introduce **SampurNER**, a fine-grained named entity recognition (FgNER) dataset encompassing **all 22 scheduled Indian languages** spoken by more than **two billion people**. To address the scarcity of FgNER resources for Indian languages, we propose the **Entity-anchored Machine Translation (EaMaTa)** framework. By leveraging the manually annotated English dataset *FewNERD*, we created a large-scale resource comprising an average of 153k sentences and 354k entities per language. Our analysis demonstrates that EaMaTa provides up to a 9% increase in F1-score against the current state-of-the-art.
+
+## [Read the paper in AAAI-26 Proceedings](https://github.com/PrachuryyaKaushik/SampurNER/blob/main/SampurNER_AAAI_extended.pdf)
+### [Read the extended version of the paper for more details](https://github.com/PrachuryyaKaushik/SampurNER/blob/main/SampurNER_AAAI_extended.pdf)
 
 ## 🛠 The EaMaTa Framework
 
