@@ -14,7 +14,7 @@ The **Entity-anchored Machine Translation** framework ensures high-quality trans
 
 ---
 
-<img src="[path/to/image.png](https://github.com/PrachuryyaKaushik/SampurNER/blob/main/EaMaTa_framework_final_poster-1.png)" alt="Entity-anchored Machine Translation: The source dataset is translated both as `Plain sentence' and `Entity-anchored sentence' to the target languages. The cleaning process includes the removal of sentences with sentence mismatch, entity-anchor boundaries mismatch (both start and end), and total entity counts mismatch between the source and translated sentences." width="500">
+<img src="https://github.com/PrachuryyaKaushik/SampurNER/blob/main/EaMaTa_framework_final_poster-1.png" alt="Entity-anchored Machine Translation: The source dataset is translated both as `Plain sentence' and `Entity-anchored sentence' to the target languages. The cleaning process includes the removal of sentences with sentence mismatch, entity-anchor boundaries mismatch (both start and end), and total entity counts mismatch between the source and translated sentences." width="500">
 
 
 ## 📊 Dataset Statistics
